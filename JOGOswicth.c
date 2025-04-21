@@ -1,6 +1,9 @@
 #include <stdio.h>
 int main (){
 
+    // Carta1: Amazonas, populacao = 20.636890, area = 11.401902.
+    // Carta2: Acre, populacao = 880.631, area = 152.581.
+
     int opcao;
     char nomedacidade1[20], nomedacidade2[20];
     float populacao1, populacao2;
